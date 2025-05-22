@@ -99,11 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #2C5F34;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -120,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #2C5F34;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -185,12 +181,13 @@ input, select, textarea {
 			-moz-columns: 20em 2;
 			-webkit-columns: 20em 2;
 			-ms-columns: 20em 2;
-			columns: 20em 2;
+			columns: 30em 2;
 			-moz-column-gap: 2em;
 			-webkit-column-gap: 2em;
 			-ms-column-gap: 2em;
 			column-gap: 2em;
 			text-align: justify;
+			margin-bottom: 5em;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3081,16 +3078,17 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 2em;
 			letter-spacing: -0.025em;
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 3em 5em 0.8em 5em ;
 		}
 
 			#header.alt h1 {
-				font-size: 3.25em;
+				font-size: 5.25em;
+				font-weight: bold;
 			}
 
 			#header.alt > * {
@@ -3546,10 +3544,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #d3d3d3, #d3d3d3, #d3d3d3);
+			background-image: -webkit-linear-gradient(90deg, #d3d3d3, #d3d3d3, #d3d3d3);
+			background-image: -ms-linear-gradient(90deg, #d3d3d3, #d3d3d3, #d3d3d3);
+			background-image: linear-gradient(90deg, #d3d3d3, #d3d3d3, #d3d3d3);
 		}
 
 		#main table tbody tr {
