@@ -12,5 +12,5 @@ This repo hosts my personal website / portfolio.
 - Contact links
 
 ## Tech
-Built with: HTML/CSS/JavaScript (GitHub Pages).
+Built with: HTML/CSS/JavaScript (GitHub Pages)
 
