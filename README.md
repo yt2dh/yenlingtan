@@ -6,7 +6,7 @@ This repo hosts my personal website / portfolio.
 - GitHub Pages: https://yen-ling-tan.com/  
 
 ## What's inside
-- About me (Behavioral economist | data & experiments)
+- About me (Applied economist | Experiments, Causal Inference, Structural Estimation)
 - Projects (Python / experiments / data analysis)
 - CV
 - Contact links
