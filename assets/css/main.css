@@ -182,7 +182,7 @@ input, select, textarea {
 			-ms-column-gap: 2em;
 			column-gap: 2em;
 			text-align: justify;
-			margin-bottom: 5em;
+			margin-bottom: 2em;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
