@@ -3593,9 +3593,13 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 6.5em 3em 6.5em ;
+			padding: 2em 6.5em 1em 6.5em ;
 			border-top: solid 1px #dddddd;
 		}
+		/* #main > .main {
+			padding: 5em 6.5em 3em 6.5em ;
+			border-top: solid 1px #dddddd;
+		} */
 
 			#main > .main:first-child {
 				border-top: 0;
