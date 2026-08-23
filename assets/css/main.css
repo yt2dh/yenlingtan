@@ -3092,8 +3092,12 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 3em 5em 0.8em 5em ;
+			padding: 3em 5em 3em 5em ;
 		}
+
+		/* #header.alt {
+			padding: 3em 5em 0.8em 5em ;
+		} */
 
 			#header.alt h1 {
 				font-size: 5.25em;
