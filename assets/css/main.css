@@ -2634,6 +2634,20 @@ input, select, textarea {
 
 		header.major h2 {
 			font-size: 2em;
+			display: inline-block;
+		}
+
+			header.major h2:after {
+				display: block;
+				content: '';
+				width: 100%;
+				height: 2px;
+				margin: 0.7em 0 1em 0;
+				border-radius: 2px;
+			}
+
+		/* header.major h2 {
+			font-size: 2em;
 		}
 
 			header.major h2:after {
@@ -2643,7 +2657,7 @@ input, select, textarea {
 				height: 2px;
 				margin: 0.7em 0 1em 0;
 				border-radius: 2px;
-			}
+			} */
 
 				section.special header.major h2:after, article.special header.major h2:after {
 					margin-left: auto;
